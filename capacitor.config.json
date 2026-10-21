@@ -1,0 +1,9 @@
+{
+  "appId": "com.sam.drivehub",
+  "appName": "แซม",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

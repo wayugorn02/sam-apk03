@@ -1,0 +1,17 @@
+name: sam_drive_app
+description: แอป แซม (SAM) จัดเก็บและเรียกดูข้อมูลผ่าน Google Drive API
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_sign_in: ^6.2.1
+  googleapis: ^13.1.0
+  local_auth: ^2.2.0
+  file_picker: ^8.0.0
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.2.6
